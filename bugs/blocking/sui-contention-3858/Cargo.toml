@@ -1,0 +1,6 @@
+[package]
+name = "sui-contention-3858"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

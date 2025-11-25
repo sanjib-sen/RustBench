@@ -1,0 +1,6 @@
+[package]
+name = "raft-rs-blocking-192"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
